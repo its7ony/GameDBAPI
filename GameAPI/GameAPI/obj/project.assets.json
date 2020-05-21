@@ -6955,11 +6955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\its7ony\\source\\repos\\GameAPI\\GameAPI\\GameAPI.csproj",
+      "projectUniqueName": "C:\\Users\\its7ony\\source\\repos\\GAMEDB\\GameDBAPI\\GameAPI\\GameAPI\\GameAPI.csproj",
       "projectName": "GameAPI",
-      "projectPath": "C:\\Users\\its7ony\\source\\repos\\GameAPI\\GameAPI\\GameAPI.csproj",
+      "projectPath": "C:\\Users\\its7ony\\source\\repos\\GAMEDB\\GameDBAPI\\GameAPI\\GameAPI\\GameAPI.csproj",
       "packagesPath": "C:\\Users\\its7ony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\its7ony\\source\\repos\\GameAPI\\GameAPI\\obj\\",
+      "outputPath": "C:\\Users\\its7ony\\source\\repos\\GAMEDB\\GameDBAPI\\GameAPI\\GameAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
