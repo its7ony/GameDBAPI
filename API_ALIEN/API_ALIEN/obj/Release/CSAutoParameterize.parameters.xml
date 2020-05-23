@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="APIALIEN-Web.config Connection String" description="APIALIEN Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="DATA SOURCE = DESKTOP-16G1T07; Database = GameDB; User Id = sa; Password = 12345; " tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\its7ony\\source\\repos\\API_ALIEN\\API_ALIEN\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='APIALIEN']/@connectionString" />
+  </parameter>
+</parameters>
